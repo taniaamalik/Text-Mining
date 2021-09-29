@@ -1,4 +1,4 @@
-# Text-Minning
+# Text-Mining
 my assignments during semester 5 with java (preprocessing and term frequency)
 
 Using data in the form of news as much as 5 to do:
